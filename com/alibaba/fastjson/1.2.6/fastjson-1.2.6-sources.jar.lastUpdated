@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jan 08 00:39:01 CST 2017
+@default-nexus-http\://172.16.9.80\:8088/nexus/content/groups/public/.lastUpdated=1483282964150
+http\://nexus.gz.chinahrd.net/content/groups/public/.lastUpdated=1483807141114
+http\://172.16.9.80\:8088/nexus/content/groups/public/.error=Could not transfer artifact com.alibaba\:fastjson\:jar\:sources\:1.2.6 from/to nexus (http\://172.16.9.80\:8088/nexus/content/groups/public)\: connect timed out
